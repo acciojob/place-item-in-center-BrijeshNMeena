@@ -6,6 +6,7 @@
 	align-items: center;
 }
 .item-1{
+	display: flex;
 	background-color: yellowgreen;
 	height: 100px;
 	width: 100px;
